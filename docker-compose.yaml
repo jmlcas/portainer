@@ -5,7 +5,6 @@ services:
   portainer:
     image: portainer/portainer-ce
     container_name: portainer
-    init: true
     restart: always
     ports:
       - "9000:9000"
@@ -13,6 +12,6 @@ services:
       - "9443:9443"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
-      - ./portainer_data:/data
+      - /portainer_data:/data
 
 
