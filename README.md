@@ -1,5 +1,5 @@
 # Portainer
-Docker-compose portainer-ce 
+Portainer - Gestión contenedores - Docker compose  
 
 Ver en "localhost:9000"
 
