@@ -1,6 +1,3 @@
 # Portainer
-Portainer - Gestión contenedores - Docker compose  
 
-Ver en "localhost:9000"
-
-
+Ver en "http://localhost:8000" ó "https://localhost:9443"
