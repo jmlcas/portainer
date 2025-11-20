@@ -3,7 +3,6 @@ services:
   portainer:
     image: portainer/portainer-ce:lts
     container_name: portainer
-#    command: -H unix:///var/run/docker.sock
     ports:
       - "8000:8000"
       - "9443:9443"
@@ -14,3 +13,4 @@ services:
 
 volumes:
   portainer_data:
+
