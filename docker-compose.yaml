@@ -1,7 +1,7 @@
 services:
 
   portainer:
-    image: portainer/portainer-ce:lts
+    image: portainer/portainer-ce:latest
     container_name: portainer
     ports:
       - "8000:8000"
