@@ -8,6 +8,6 @@ Puedes encontrar tu token de configuración en los registros de tu servidor Port
 
 Ver imágenes:
 
-![Alt text](https://github.com/jmlcas/Nombre_app/blob/main/Screenshot_1.png)
+![Alt text](https://github.com/jmlcas/portainer/blob/main/Screenshot_1.png)
 
-![Alt text](https://github.com/jmlcas/Nombre_app/blob/main/Screenshot_2.png)
+![Alt text](https://github.com/jmlcas/portainer/blob/main/Screenshot_2.png)
