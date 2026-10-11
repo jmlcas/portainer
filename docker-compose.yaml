@@ -1,7 +1,7 @@
 services:
 
   portainer:
-    image: portainer/portainer-ce:latest
+    image: portainer/portainer-ce:lts
     container_name: portainer
     ports:
 #      - "8000:8000"    # Edge Agent tunnel (opcional)
